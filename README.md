@@ -1,4 +1,4 @@
-# HomeBoy
+# HomeBoy 2.0
 
 A smart home control system built for MCD1160 (Assignment 2), using Arduino.
 
