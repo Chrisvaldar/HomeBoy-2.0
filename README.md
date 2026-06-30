@@ -2,6 +2,8 @@
 
 A smart home control system built for MCD1160 (Assignment 2), using Arduino.
 
+<img width="428" height="257" alt="image" src="https://github.com/user-attachments/assets/594051c2-348f-4899-83c7-1442f8f9979a" />
+
 ## What it does
 
 - Password-protected access with a 5-attempt lockout
